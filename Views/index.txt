@@ -1,0 +1,1 @@
+aqui vou ter que chamar o front end??? não. só as rotas vão fazer isso. aqui não vai ter nada a principio. apagar se for o caso.
