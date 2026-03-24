@@ -27,7 +27,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx tsx app.ts",
-    "databaseSeed": "npx tsx database/seed.ts"
+    "databaseSeed": "npx tsx database/seed.ts",
+    "build": "tsc",
+    "start": "node build/app.js"
   },
   "keywords": [],
   "author": "",
