@@ -12,7 +12,8 @@ const allowedOrigins = [
   'http://localhost:51810',
   'http://192.168.0.44:51810',
   'https://meu-portfolio-frontend.onrender.com',
-  'https://meu-portfolio-frontend-latest.onrender.com'
+  'https://meu-portfolio-frontend-latest.onrender.com',
+  'https://luizricardodias-portfolio.onrender.com'
 ];
 
 const app = express();
